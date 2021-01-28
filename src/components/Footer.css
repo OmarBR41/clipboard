@@ -37,11 +37,11 @@ nav ul li {
   margin-bottom: 24px;
 }
 
-nav ul li a {
+nav ul li span {
   cursor: pointer;
 }
 
-nav ul li a:hover {
+nav ul li span:hover {
   color: #222;
 }
 
