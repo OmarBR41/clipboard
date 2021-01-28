@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clipboard/static/css/main.fc29d192.chunk.css",
+    "main.css": "/clipboard/static/css/main.588eb965.chunk.css",
     "main.js": "/clipboard/static/js/main.63b60748.chunk.js",
     "main.js.map": "/clipboard/static/js/main.63b60748.chunk.js.map",
     "runtime-main.js": "/clipboard/static/js/runtime-main.c6fda2a2.js",
@@ -8,7 +8,7 @@
     "static/js/2.6db800ef.chunk.js": "/clipboard/static/js/2.6db800ef.chunk.js",
     "static/js/2.6db800ef.chunk.js.map": "/clipboard/static/js/2.6db800ef.chunk.js.map",
     "index.html": "/clipboard/index.html",
-    "static/css/main.fc29d192.chunk.css.map": "/clipboard/static/css/main.fc29d192.chunk.css.map",
+    "static/css/main.588eb965.chunk.css.map": "/clipboard/static/css/main.588eb965.chunk.css.map",
     "static/js/2.6db800ef.chunk.js.LICENSE.txt": "/clipboard/static/js/2.6db800ef.chunk.js.LICENSE.txt",
     "static/media/Hero.css": "/clipboard/static/media/bg-header-mobile.611a5565.png",
     "static/media/image-computer.65db67db.png": "/clipboard/static/media/image-computer.65db67db.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.c6fda2a2.js",
     "static/js/2.6db800ef.chunk.js",
-    "static/css/main.fc29d192.chunk.css",
+    "static/css/main.588eb965.chunk.css",
     "static/js/main.63b60748.chunk.js"
   ]
 }
