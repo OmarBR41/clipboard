@@ -12,6 +12,7 @@ footer {
   width: 60px;
   height: 60px;
   margin-bottom: 50px;
+  cursor: pointer;
 }
 
 .footer-logo svg {
@@ -54,6 +55,7 @@ nav ul li span:hover {
 
 .footer-icon {
   fill: var(--dark-gray);
+  cursor: pointer;
 }
 
 .footer-icon:hover {
