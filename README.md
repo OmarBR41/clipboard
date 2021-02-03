@@ -2,7 +2,16 @@
 
 A simple landing page for a fictional product. Buttons are disabled.
 
-Developed with React and CSS3. Mobile first approach with responsive design.
+## Developed with:
+
+- React
+- CSS3
+
+#### Misc.
+
+- VSCode
+
+Mobile first approach with responsive design.
 
 ## This is a Frontend Mentor Challenge
 
