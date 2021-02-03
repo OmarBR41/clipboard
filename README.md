@@ -1,7 +1,9 @@
-# Frontend Mentor - Clipboard landing page
+# Clipboard landing page
 
-Developed with ReactJS and CSS3. Mobile first approach with responsive design.
+A simple landing page for a fictional product. Buttons are disabled.
 
-NOTE: All buttons are disabled and don't lead anywhere.
+Developed with React and CSS3. Mobile first approach with responsive design.
 
-Challenge URL: https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/hub/clipboard-landing-page-a3KRvhlyi
+## This is a Frontend Mentor Challenge
+
+[More details on the challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9/)
