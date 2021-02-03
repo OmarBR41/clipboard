@@ -7,11 +7,7 @@ A simple landing page for a fictional product. Buttons are disabled.
 - React
 - CSS3
 
-#### Misc.
-
-- VSCode
-
-Mobile first approach with responsive design.
+Mobile first approach and responsive design.
 
 ## This is a Frontend Mentor Challenge
 
